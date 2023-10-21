@@ -1,2 +1,2 @@
 # Newlipor
-As an Beginning
+As a Beginning
